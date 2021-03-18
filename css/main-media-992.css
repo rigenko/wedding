@@ -1,0 +1,12 @@
+
+@media (max-width : 992px) {
+	
+  .block-img{
+    max-width: 470px;
+  }
+  .gifts-row__img{
+    max-width: 230px;
+  }
+  
+}
+	

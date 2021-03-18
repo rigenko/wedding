@@ -1,0 +1,33 @@
+
+@media (max-width : 768px) {
+  
+  .main-title{
+    font-size: 46px;
+    line-height: 59px;
+  }
+  .description{
+    max-width: 320px;
+  }
+  .block-img{
+    max-width: 400px;
+  }
+  .gifts-row__img{
+    max-width: 180px;
+  }
+  .action-block{
+    flex-direction: column;
+    align-items: center;
+  }
+  .block-content{
+    margin-bottom: 20px;
+  }
+  .blogs-content{
+    padding: 20px;
+  }
+  .blogs-title{
+    font-size: 38px;
+    line-height: 48px;
+  }
+  
+}
+	
